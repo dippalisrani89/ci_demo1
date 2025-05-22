@@ -7,11 +7,11 @@ def add(a, b):
 
 
 def mul(a, b):
-    return a*b
+    return a * b
 
-    
+
 greet("Ramesh")
 
 
 print(add(3, 5))
-print(mul(3,5))
+print(mul(3, 5))
